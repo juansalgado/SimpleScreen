@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Simple Screen</string>
+    <string name="sara_ruesga">Sara Ruesga is a professional hairdresser since 1991, this is the first headquarters in Gijón in the street Poet Alfonso Camín.</string>
+    <string name="web_direction">http://www.sararuesga.com</string>
+    <string name="sara_email">sararuesga@gmail.com</string>
+    <string name="street_location">Calle Poeta Alfonso Camín Gijón</string>
+    <string name="telephone_number">+34985140543</string>
+    <string name="title_app">Sara Ruesga</string>
+
+    <string name="string1">Sara Ruesga.
+        Hairdresser, makeup artist, creative and artist.
+    </string>
+
+    <string name="string2">Title of the European Hairdressing Championship.
+    </string>
+
+    <string name="string3">DRESSING WITH ME(VISTETE CONMIGO)\n
+    Feature of the Spring Summer 2013 Collection of this fashion house.
+    </string>
+
+    <string name="string4">BETWEEN BONDS(ENTRENLACES)\n
+    Wedding reports that combine the talent of photographer David García Torrado and our stylist to create a collection of dream moments.
+    </string>
+
+    <string name="string5">CHRONOS COLLECTION\n
+    Camelia Ríos and Sara collaborate again in the presentation of this new creation of jewelry.
+    </string>
+
+    <string name="string6">I\'M NOT YOUR ANGEL\n
+    Angela is a more intrepid model with which Sara collaborates.
+    From the most striking color combinations, to the most surprising cut-outs.
+    </string>
+
+    <string name="string7">SPANISH DREAM\n
+    Creative fantasy give volume to this collected with southern airs.
+    </string>
+
+    <string name="string8">CORSET\n
+    When a painter and photographer collaborate as
+    Euliser Polanco and our stylist Sara appear such delicate and exquisite creations with a retro touch.
+    </string>
+
+    <string name="string9">EARTH COLLECTION\n
+    Sara lends her hands in the creation of looks suitable to accompany the creations of the Architects Joyera Camelia Rios.
+    </string>
+
+</resources>
